@@ -16,6 +16,7 @@ This repository contains course materials for a calculus course, including docum
 *   [Chpt1PreCalc.pdf](./Chpt1PreCalc.pdf)
 *   [Chpt2Limits.pdf](./Chpt2Limits.pdf)
 *   [Chpt2Limits.pdf](./Chpt2Limits.pdf)
+*   [Chpt2 LIMITS Handout.pdf](./Chpt2%20LIMITS%20Handout.pdf)
 *   [Chpt3Derivative.pdf](./Chpt3Derivative.pdf)
 *   [Chpt4Applications of Derivatives.pdf](./Chpt4Applications%20of%20Derivatives.pdf)
 *   [Chpt5Integration.pdf](./Chpt5Integration.pdf)
